@@ -27,7 +27,10 @@
         { pkgs }:
         {
           default = pkgs.mkShellNoCC {
-            packages = with pkgs; [ gleam ];
+            packages = with pkgs; [
+              gleam
+              erlang
+            ];
           };
         }
       );
