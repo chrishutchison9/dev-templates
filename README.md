@@ -66,6 +66,7 @@ Once your preferred template has been initialized, you can use the provided shel
 | [Open Policy Agent][opa] | [`opa`](./opa)                |
 | [PHP]                    | [`php`](./php/)               |
 | [PlatformIO]             | [`platformio`](./platformio/) |
+| [Presenterm]             | [`presenterm`](./presenterm/) |
 | [Protobuf]               | [`protobuf`](./protobuf/)     |
 | [Pulumi]                 | [`pulumi`](./pulumi/)         |
 | [Purescript]             | [`purescript`](./purescript/) |
@@ -257,6 +258,13 @@ A dev template that's fully customizable.
 
 - [PlatformIO]
 
+### [`Presenterm`](./presenterm/)
+
+- [Presenterm]
+- [Mermaid-cli]
+- [Typst]
+- [pandoc]
+
 ### [`protobuf`](./protobuf/)
 
 - The [Buf CLI][buf]
@@ -401,6 +409,7 @@ A dev template that's fully customizable.
 [lldb]: https://lldb.llvm.org
 [lorri]: https://github.com/target/lorri
 [maven]: https://maven.apache.org
+[mermaid-cli]: https://github.com/mermaid-js/mermaid-cli
 [mix]: https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
 [nickel]: https://nickel-lang.org
 [nim]: https://nim-lang.org
@@ -427,6 +436,7 @@ A dev template that's fully customizable.
 [platformio]: https://platformio.org
 [python]: https://python.org
 [pnpm]: https://pnpm.io
+[presenterm]: https://github.com/mfontanini/presenterm
 [protobuf]: https://developers.google.com/protocol-buffers
 [pulumi]: https://pulumi.com
 [purescript]: https://github.com/purescript/purescript
