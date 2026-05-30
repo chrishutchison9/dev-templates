@@ -251,6 +251,11 @@
             description = "PlatformIO development environment";
           };
 
+          presenterm = {
+            path = ./presenterm;
+            description = "Presenterm development environment";
+          };
+
           protobuf = {
             path = ./protobuf;
             description = "Protobuf development environment";
