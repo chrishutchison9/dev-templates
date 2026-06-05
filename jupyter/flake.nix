@@ -32,10 +32,10 @@
               with pkgs;
               [
                 poetry
-                python311
+                python313
                 self.formatter.${system}
               ]
-              ++ (with python311Packages; [
+              ++ (with python313Packages; [
                 ipykernel
                 pip
                 venvShellHook
