@@ -38,7 +38,7 @@
             #       future or by the user, such as through
             #       an override.
             packages = with pkgs; [
-              haxe_4_0
+              haxe
               self.formatter.${system}
             ];
           };
