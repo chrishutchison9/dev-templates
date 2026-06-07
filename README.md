@@ -67,6 +67,7 @@ Once your preferred template has been initialized, you can use the provided shel
 | [PHP]                    | [`php`](./php/)               |
 | [PlatformIO]             | [`platformio`](./platformio/) |
 | [Presenterm]             | [`presenterm`](./presenterm/) |
+| [PowerShell]             | [`powershell`](./powershell/) |
 | [Protobuf]               | [`protobuf`](./protobuf/)     |
 | [Pulumi]                 | [`pulumi`](./pulumi/)         |
 | [Purescript]             | [`purescript`](./purescript/) |
@@ -264,6 +265,10 @@ A dev template that's fully customizable.
 - [Mermaid-cli]
 - [Typst]
 - [pandoc]
+### [`powershell`](./powershell/)
+
+- [Powershell]
+- [Powershell Editor Services][powershell-editor-services]
 
 ### [`protobuf`](./protobuf/)
 
@@ -434,6 +439,8 @@ A dev template that's fully customizable.
 [pip]: https://pypi.org/project/pip
 [php]: https://php.net
 [platformio]: https://platformio.org
+[powershell]: https://github.com/PowerShell/PowerShell
+[powershell-editor-services]: https://github.com/PowerShell/PowerShellEditorServices
 [python]: https://python.org
 [pnpm]: https://pnpm.io
 [presenterm]: https://github.com/mfontanini/presenterm
