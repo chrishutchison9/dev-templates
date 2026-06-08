@@ -254,6 +254,8 @@
           presenterm = {
             path = ./presenterm;
             description = "Presenterm development environment";
+          };
+
           powershell = {
             path = ./powershell;
             description = "PowerShell development environment";
